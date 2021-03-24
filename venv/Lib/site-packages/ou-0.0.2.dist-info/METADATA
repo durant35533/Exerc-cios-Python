@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ou
+Version: 0.0.2
+Summary: Window pairs of sequences
+Home-page: https://github.com/thorwhalen/ut/tree/master/iacc/seq/window_pairs.py
+Author: Thor Whalen
+License: apache-2.0
+Platform: any
+Description-Content-Type: text/markdown
+
+
+# ou
+Window pairs of sequences
+
+
+To install:	```pip install ou```
+
+

@@ -1,0 +1,6 @@
+L=(input('Digite algo:'))
+print('O tipo primitivo desse valor é:',type(L))
+print('Ele contém espaços?',L.isspace())
+print('Ele é maiúsculo?',L.isupper())
+print('Ele é numérico?', L.isnumeric())
+print('Ele é minúsculo?',L.islower())
